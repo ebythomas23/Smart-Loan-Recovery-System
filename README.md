@@ -35,15 +35,11 @@ A Streamlit dashboard allows internal users to input borrower details and receiv
 
 The internal dashboard allows recovery officers to enter borrower details and receive recommended recovery strategy along with areal-time risk predictions.
 
-#### 🎥 Quick Demo
+####  Quick Demo
 
-Below is a short demo showing how the app works from input to output.
-<video width="100%" controls>
-  <source src="assests/dashboard_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Dashboard Demo](assests/dashboard_demo.gif)
 
-#### 📸 Screenshot
+####  Screenshot
 
 ![Dashboard Screenshot](assests/dashboard_screenshot.png)
 
