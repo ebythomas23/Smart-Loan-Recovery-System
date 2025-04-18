@@ -1,6 +1,6 @@
 # Smart Loan Recovery System
 
-A machine learning–based solution designed to help financial institutions identify high-risk borrowers and assign efficient, data-driven recovery strategies.  
+A machine learning–based solution designed to help financial institutions recommend efficient, data-driven recovery strategies based on borrower behavior and predicted risk levels.  
 This project is intended for internal use by bank recovery officers or loan servicing teams.
 
 ---
@@ -15,7 +15,7 @@ Recovering unpaid loans is a critical part of financial operations. This project
 
 Manual recovery planning often lacks consistency and data support, leading to suboptimal decisions and resource usage. Financial institutions need a reliable way to:
 - Identify borrowers with high default risk
-- Personalize recovery strategies based on data
+- Personalise recovery strategies based on data
 - Reduce manual workload and improve overall loan recovery efficiency
 
 ---
@@ -28,9 +28,25 @@ This project uses machine learning to classify borrowers into high- and low-risk
 - Random Forest classification model for risk prediction
 - Rule-based logic to recommend targeted recovery actions
 
-A Streamlit dashboard allows internal users to input borrower details and receive real-time risk assessments and strategy recommendations.
+A Streamlit dashboard allows internal users to input borrower details and receive strategy recommendations supported by predicted risk scores.
 
 ---
+### Dashboard Preview
+
+The internal dashboard allows recovery officers to enter borrower details and receive recommended recovery strategy along with areal-time risk predictions.
+
+#### 📸 Screenshot
+
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
+---
+
+#### 🎥 Quick Demo
+
+Below is a short demo showing how the app works from input to output.
+
+![Dashboard Demo](assets/dashboard_demo.gif)
+
 
 ## How It Works
 
@@ -71,13 +87,10 @@ Intended Users
 
 This project is designed **for internal use by banks or financial institutions**, specifically:
 
-*   Loan recovery officers
-    
-*   Risk analysts
-    
+*   Loan recovery officers  
+*   Risk analysts   
 *   Collection strategy teams
     
-
 It is **not intended for public or customer-facing use**.
 
 Author
