@@ -1,6 +1,6 @@
 # Smart Loan Recovery System
 
-A machine learning–based solution designed to help financial institutions recommend efficient, data-driven recovery strategies based on borrower behavior and predicted risk levels.  
+A machine learning based solution designed to help financial institutions recommend recovery strategies based on borrower behavior and predicted risk levels.  
 This project is intended for internal use by bank recovery officers or loan servicing teams.
 
 ---
