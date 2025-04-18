@@ -66,3 +66,21 @@ A Streamlit dashboard allows internal users to input borrower details and receiv
 
 ## Project Files
 
+Intended Users
+--------------
+
+This project is designed **for internal use by banks or financial institutions**, specifically:
+
+*   Loan recovery officers
+    
+*   Risk analysts
+    
+*   Collection strategy teams
+    
+
+It is **not intended for public or customer-facing use**.
+
+Author
+------
+
+**Eby Thomas**Master of Data Science, University of Melbourne
