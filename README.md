@@ -95,4 +95,4 @@ It is **not intended for public or customer-facing use**.
 Author
 ------
 
-**Eby Thomas**Master of Data Science, University of Melbourne
+**Eby Thomas**
